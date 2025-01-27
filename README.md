@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Paola 👋
 
-- 🔭 Hoje trabalho com back-end básico e intermediário
+- 🔭 Desenvolvedora Back-End
+- 💻 Pretendo trabalhar como Full-Stack
 - 🌱 Estudando front-end e desenvolvimento web
 - 👩‍💻 Uso Python como principal linguagem de programação
 - 📚 Em breve estudarei JavaScript
