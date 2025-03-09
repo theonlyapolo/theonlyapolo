@@ -1,11 +1,11 @@
-## Olá! Eu sou a Paola 👋
+## Olá! Eu sou Apolo 👋
 
-- 🔭 Desenvolvedora Back-End
+- 🔭 Desenvolvedor Back-End
 - 💻 Pretendo trabalhar como Full-Stack
 - 🌱 Estudando front-end e desenvolvimento web
 - 👩‍💻 Uso Python como principal linguagem de programação
 - 📚 Em breve estudarei JavaScript
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: ele/dele
 
 <picture>
   <source
